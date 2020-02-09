@@ -1,0 +1,11 @@
+; main.asm
+SpriteDisplay                    = $C055
+Forever                          = $C06F
+LoopLoadPalette                  = $C04A
+LoadPalette                      = $C03B
+vblankwait1                      = $C014
+vblankwait2                      = $C036
+clrmem                           = $C019
+RESET                            = $C000
+Palette                          = $E000
+NMI                              = $C072
